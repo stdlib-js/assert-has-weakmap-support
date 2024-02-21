@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasWeakMapSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-weakmap-support@esm/index.mjs';
+import hasWeakMapSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-weakmap-support@v0.2.1-esm/index.mjs';
 ```
 
 #### hasWeakMapSupport()
@@ -70,7 +70,7 @@ var bool = hasWeakMapSupport();
 <body>
 <script type="module">
 
-import hasWeakMapSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-weakmap-support@esm/index.mjs';
+import hasWeakMapSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-weakmap-support@v0.2.1-esm/index.mjs';
 
 var bool = hasWeakMapSupport();
 if ( bool ) {
